@@ -1,0 +1,5 @@
+this my first terminal demo in github 
+"cal" command show us calender
+"date" command show us current date
+df -h =show us disk usage
+
